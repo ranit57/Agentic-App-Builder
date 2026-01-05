@@ -1,0 +1,21 @@
+Prompt 1:
+Design a minimal todo app.Add, list.
+Rename add button to add_any.
+list button to list_one.
+
+#--------------------------------------
+Prompt 2:
+Add delete button now
+
+#--------------------------------
+prompt 3:
+
+Remove Delete button and add one button named clear_all which will clear all entries at a time. 
+
+
+
+
+
+
+
+
